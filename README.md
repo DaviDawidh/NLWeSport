@@ -25,4 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Fazer um perfil de links que mostra o seus games favoritos, streamers e suas redes sociais.
+Fazer um perfil de links que mostra o seus games favoritos, streamers e suas redes sociais. [Clique aqui para acessar!!!](https://davidawidh.github.io/NLWeSport/)
